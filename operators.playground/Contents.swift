@@ -26,3 +26,13 @@ type(of: unaryPostFix)
 let result = 1 + 2
 let names = "Foo" + " "+"Bar"
 
+
+/// Ternary operator
+let age = 30
+//let message: String
+//if age >= 18{
+//    message = "You are an adult"
+//}else{
+//    message = "Your are not yet an adult"
+//}
+let message = age >= 18 ? "You are an adult" : "Your are not yet an adult"

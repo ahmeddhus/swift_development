@@ -140,5 +140,3 @@ let myClousure = {
     myClass.doSomething()
 }
 myClousure()
-
-
